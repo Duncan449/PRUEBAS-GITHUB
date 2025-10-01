@@ -1,0 +1,16 @@
+# Carpetas de entorno virtual
+.venv/
+venv/
+
+# Archivos compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración local
+.env
+*.log
+
+# Archivos de VSCode
+.vscode/
