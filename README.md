@@ -1,6 +1,3 @@
-¡Claro! 🚀 Te armo un **mini–chuleta de comandos Git** con los que más me pediste y que suelen ser los más usados en tu trabajo:
-
----
 
 ## 🔹 **Commit & cambios**
 
@@ -118,5 +115,3 @@
 
 ---
 
-👉 Con esta lista ya tenés lo esencial para trabajar cómodo.
-¿Querés que te arme también un **flujo recomendado** (paso a paso) para cuando estás desarrollando una nueva feature hasta integrarla en `main`?
