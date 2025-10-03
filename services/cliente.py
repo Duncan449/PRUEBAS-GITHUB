@@ -55,3 +55,8 @@ async def delete_cliente(id: int) -> dict:
     if not result:
         raise HTTPException(status_code=404, detail="Cliente no encontrado")
     return {"message": "Cliente eliminado correctamente"}
+
+async def nada():
+    return {"Hola"}
+
+#Puto d emierda" 
